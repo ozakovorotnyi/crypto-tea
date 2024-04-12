@@ -1,2 +1,2 @@
-# crypto-tea
+# crypto-tea-zaka
 crypto-tea testnet
